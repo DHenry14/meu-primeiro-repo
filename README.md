@@ -1,4 +1,4 @@
 # meu-primeiro-repo.
 Este é o meu primeiro repositório. 
 
-Fiz uma alteração no repositório remono no github.
+Fiz uma alteração no repositório remoto no github.
